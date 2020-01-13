@@ -16,6 +16,7 @@ Travis-CI to automatically publish your documentation every time the master
 branch is updated.
 
 .. warning::
+
     The repo you want to build the docs for has to be a root repo.
     You cannot build docs for a forked repo by doctr yet.
     The doctr team is working on enabling a forked repo build under
